@@ -1,5 +1,3 @@
-Mutu to hold talks with Juventus
-
-Disgraced former Chelsea striker Adrian Mutu is to begin talks with Juventus as he looks for a new club.
-
-"Mutu will be in our club's main stand to watch the match between Juventus and Fiorentina," said a Juventus official, who declined to be named. "Then he will meet some important people of the club," he added. Mutu, 25, sacked by Chelsea and banned for seven months for taking cocaine, is now represented by Alessandro Moggi, son of Juve manager Luciano Moggi. Mutu, banned by the English FA, can resume playing next May. He is to undergo a drug education and rehabilitation programme. Mutu wants to train with Romanian side Dinamo Bucharest whilst serving his ban, say the Bucharest side.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5466d9d9c91bce3fb9a3aa7d4fe6d02b29cc9ac0f4343dc820ec36db1c22021
+size 729

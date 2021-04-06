@@ -1,5 +1,3 @@
-UKIP outspent Labour on EU poll
-
-The UK Independence Party outspent both Labour and the Liberal Democrats in the European elections, new figures show.
-
-UKIP, which campaigned on a slogan of "Say no to Europe", spent £2.36m on the campaign - second only to the Conservatives' £3.13m. The campaign took UKIP into third place with an extra 10 MEPs. Labour's campaign cost £1.7m, the Lib Dems' £1.19m and the Greens' £404,000, according to figures revealed by the Electoral Commission on Wednesday. Much of the UKIP funding came from Yorkshire millionaire Sir Paul Sykes, who helped bankroll the party's billboard campaign. Critics have accused the party of effectively buying votes. But a UKIP spokesman said Labour and the Conservatives had spent £10m between them on the last general election. "With the advantages of public money the others have, the only way the smaller parties can get their message across is by buying the advertising space," he added.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91bf26781f776a893f95ee1abbfdab85f49c129a1c3ae57626a802b5aaf0105e
+size 962

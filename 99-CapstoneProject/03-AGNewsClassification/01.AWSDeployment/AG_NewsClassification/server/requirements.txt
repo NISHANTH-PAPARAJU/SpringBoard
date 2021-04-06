@@ -1,6 +1,3 @@
-Flask==1.1.2
-numpy==1.19.5
-scikit-learn==0.22.2
-re==2.2.1
-nltk==3.2.5
-gensim==3.6.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:aec1f0148227b5b412a4ba3395e77feab650d7dce86767504d85d9822af48081
+size 84

@@ -1,11 +1,3 @@
-Consists of 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004-2005.
-Natural Classes: 5 (business, entertainment, politics, sport, tech)
-
-If you make use of the dataset, please consider citing the publication: 
-- D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering", Proc. ICML 2006.
-
-All rights, including copyright, in the content of the original articles are owned by the BBC.
-
-Contact Derek Greene <derek.greene@ucd.ie> for further information.
-http://mlg.ucd.ie/datasets/bbc.html
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:eea76164b59389dd8e7267d30cd3680afa001143be2df8fc0631c8c991dd150b
+size 598

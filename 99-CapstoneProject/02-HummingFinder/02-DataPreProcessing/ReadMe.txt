@@ -1,3 +1,3 @@
-This is a sample set of Vocal saperated and format converted songs.
-
-However, there are 100 set of such songs collected, i.e 100*(5 + 1) = 600 songs in total.
+version https://git-lfs.github.com/spec/v1
+oid sha256:081d075866c923895150a4b63ec18e5ddddfda1020574259eeaf4409c70a19d6
+size 158
