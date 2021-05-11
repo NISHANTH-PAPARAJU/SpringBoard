@@ -69,7 +69,7 @@ sudo pip3 install -r /home/ubuntu/AGNewsClassification/server/requirements.txt
 python3 /home/ubuntu/AGNewsClassification/client/server.py
 ```
 Running last command above will prompt that server is running on port 5000.
-8. Now just load your cloud url in browser (for me it was http://ec2-3-88-207-26.compute-1.amazonaws.com/) and this will be fully functional website running in production cloud environment
+8. Now just load your cloud url in browser (for me it was http://ec2-18-212-10-190.compute-1.amazonaws.com/) and this will be fully functional website running in production cloud environment
 
 9. Use tmux to keep the app running even after closing the terminal.
 
